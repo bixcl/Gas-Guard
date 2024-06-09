@@ -8,29 +8,19 @@ we works on it in 3 monthes to make it ready
 ---
 # Gas Guard
 
-[![codecov](https://codecov.io/gh/bixcl/YTDown/branch/main/graph/badge.svg?token=YTDown_token_here)](https://codecov.io/gh/bixcl/YTDown)
-[![CI](https://github.com/bixcl/YTDown/actions/workflows/main.yml/badge.svg)](https://github.com/bixcl/YTDown/actions/workflows/main.yml)
-
 Gas Guard created by bixcl and his team
 
-## Install requirement
-Installing python
-```bash
-https://www.python.org/downloads/windows
-```
-Installing pip3
-```bash
-python -m ensurepip --upgrade
-```
--Installing requirements
-```bash
-pip3 install -r requirements.txt
-```
+## requirement
+software requrement: arduino ide - blynk app
+hardware requirement: arduino mega/uno - NodeMCU - flame sensor - MQ2 gas sensor - HX711 load cell sensor - bazzar - led - 3d printed parts for the load cell sensor
+
+you need to install the drivers for your nodeMCU 
+you need to connect nodeMCU to arduno mega through serial connection
+
 
 ## Usage
-```bash
-$ python YTDown.py
-```
+run both the nodeMCU code and Arduino mega code togther 
+and you need to change the information of your blynk app before you run the code.
 
 ## Development
 
