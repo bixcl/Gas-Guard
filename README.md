@@ -6,12 +6,12 @@ we works on it in 3 monthes to make it ready
 
 
 ---
-# YTDown
+# Gas Guard
 
 [![codecov](https://codecov.io/gh/bixcl/YTDown/branch/main/graph/badge.svg?token=YTDown_token_here)](https://codecov.io/gh/bixcl/YTDown)
 [![CI](https://github.com/bixcl/YTDown/actions/workflows/main.yml/badge.svg)](https://github.com/bixcl/YTDown/actions/workflows/main.yml)
 
-Awesome ytdown created by bixcl
+Gas Guard created by bixcl and his team
 
 ## Install requirement
 Installing python
