@@ -8,7 +8,7 @@ we works on it in 3 monthes to make it ready
 ---
 # Gas Guard
 
-Gas Guard created by bixcl and his team
+Gas Guard created by bxl and his team
 
 ## requirement
 software requrement: arduino ide - blynk app
